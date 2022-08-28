@@ -1,0 +1,16 @@
+100: 30
+False
+110: 22
+False
+001: 38
+False
+010: 33
+False
+000: 299
+True
+101: 284
+True
+011: 282
+True
+111: 36
+False
